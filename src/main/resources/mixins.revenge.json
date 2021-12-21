@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.rianix.revenge.mixin.mixins",
+  "refmap": "mixins.revenge.refmap.json",
+  "mixins": [
+    "MixinGuiMainMenu",
+    "MixinMinecraft",
+    "MixinNetHandlerPlayClient",
+    "MixinRenderLivingBase",
+    "MixinLayerArmorBase",
+    "MixinBlockSoulSand",
+    "MixinNetworkManager",
+    "MixinEntityRenderer",
+    "MixinPlayerControllerMP",
+    "accessor.IMinecraftMixin",
+    "accessor.AccessorEntityPlayerSP"
+  ],
+  "client": [],
+  "server": []
+}

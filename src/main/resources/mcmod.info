@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "revenge",
+    "name": "revenge",
+    "description": "revenge",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "revenge",
+    "updateUrl": "revenge",
+    "authorList": [
+      "rianix", "s1ash"
+    ],
+    "credits": "",
+    "logoFile": "revenge",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
